@@ -26,6 +26,14 @@ public class Post implements Serializable {
         this.author = author;
     }
 
+    public Post(Post obj) {//lembrar de tirar quando fizer o PostDTO
+        this.id = obj.id;
+        this.date = obj.date;
+        this.title = obj.title;
+        this.body = obj.body;
+        this.author = obj.author;
+    }
+
     public String getId() {
         return id;
     }
