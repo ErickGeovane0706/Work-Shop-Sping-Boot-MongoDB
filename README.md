@@ -173,9 +173,5 @@ Este README segue um layout escuro, elegante e moderno, ideal para portfólios p
 
 ---
 
-## 👤 **Autor**
-
-Desenvolvido por **Erick Geovane**, com foco em arquitetura limpa, boas práticas e modelagem em MongoDB.
-
 ---
 
