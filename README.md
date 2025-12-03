@@ -167,11 +167,4 @@ Na classe `Instantiation`, ao iniciar o projeto são criados:
 
 ---
 
-## 🖤 **Estilo e Visual Dark Premium**
-
-Este README segue um layout escuro, elegante e moderno, ideal para portfólios profissionais.
-
----
-
----
 
